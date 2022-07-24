@@ -1,0 +1,12 @@
+Z:\Solidity\Radix Scrypto\token-sale\target\wasm32-unknown-unknown\release\deps\sha2-25cb58f26e0dea7e.rmeta: C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\lib.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\consts.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256\soft.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512\soft.rs
+
+Z:\Solidity\Radix Scrypto\token-sale\target\wasm32-unknown-unknown\release\deps\libsha2-25cb58f26e0dea7e.rlib: C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\lib.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\consts.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256\soft.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512\soft.rs
+
+Z:\Solidity\Radix Scrypto\token-sale\target\wasm32-unknown-unknown\release\deps\sha2-25cb58f26e0dea7e.d: C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\lib.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\consts.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256\soft.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512\soft.rs
+
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\lib.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\consts.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha256\soft.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.9\src\sha512\soft.rs:

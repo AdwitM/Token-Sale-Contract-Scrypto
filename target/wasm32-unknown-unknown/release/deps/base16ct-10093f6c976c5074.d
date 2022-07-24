@@ -1,0 +1,12 @@
+Z:\Solidity\Radix Scrypto\token-sale\target\wasm32-unknown-unknown\release\deps\base16ct-10093f6c976c5074.rmeta: C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+Z:\Solidity\Radix Scrypto\token-sale\target\wasm32-unknown-unknown\release\deps\libbase16ct-10093f6c976c5074.rlib: C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+Z:\Solidity\Radix Scrypto\token-sale\target\wasm32-unknown-unknown\release\deps\base16ct-10093f6c976c5074.d: C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs:
+C:\Users\neros\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs:
